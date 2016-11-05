@@ -5,8 +5,13 @@ Check the URL of the latest VFR reporting points file from [Finavia Downloads](h
 ## How to use
 
 ```
-usage: python generate.py <URL_OF_THE_VFR_FIX_FILE>
+$ python generate.py <URL_OF_THE_VFR_FIX_FILE>
 ````
+
+Example
+```
+$ python generate.py https://ais.fi/files/finavia2/gpx-tiedosto/EF_VFRREP_15SEP2016.gpx
+```
 
 ## Documentation
 
@@ -27,5 +32,5 @@ If you don't have the files, you can copy the originals from the following direc
 
 If you want up-to-date list of all fixes (excluding VFR reporting points), you can download X-Plane
 compatible files from [Navigraph](https://www.navigraph.com) (not free). Just remember to add
-VFR reporting points to these files.
+VFR reporting points to these files.s
 
