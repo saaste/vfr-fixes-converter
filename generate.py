@@ -6,7 +6,7 @@ import requests
 import xml.etree.ElementTree as ET
 
 
-MAP_FILENAME = "earth_fix_addons.dat"
+MAP_FILENAME = "earth_fix.dat"
 GPS_FILENAME = "waypoints.txt"
 
 
