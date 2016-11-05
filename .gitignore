@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+earth_fix_addons.dat
+waypoints.txt
