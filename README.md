@@ -2,6 +2,9 @@
 A simple python script to convert Finnish VFR reporting points file to earth_fix.dat and waypoints.txt supported by **X-Plane 10**.
 Check the URL of the latest VFR reporting points file from [Finavia Downloads](https://ais.fi/C-en/services_en/downloads)
 
+## Prequisites
+* [Python](https://www.python.org/) installed 
+
 ## How to use
 
 ```
@@ -31,6 +34,6 @@ If you don't have the files, you can copy the originals from the following direc
 **DO NOT** edit the original files since you will loose your changes after X-Plane update. Always use `Custom Data` directory.
 
 If you want up-to-date list of all fixes (excluding VFR reporting points), you can download X-Plane
-compatible files from [Navigraph](https://www.navigraph.com) (not free). Just remember to add
-VFR reporting points to these files.s
+compatible files from [Navigraph](https://www.navigraph.com) with very reasonable price. Just remember to add
+VFR reporting points to these files.
 
